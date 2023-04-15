@@ -1,0 +1,25 @@
+{
+  "name": "jal-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashishnhhh/jal-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashishnhhh/jal-api/issues"
+  },
+  "homepage": "https://github.com/ashishnhhh/jal-api#readme",
+  "dependencies": {
+   
+    "json-server": "^0.17.3",
+    "nodemon": "^2.0.22"
+  }
+}

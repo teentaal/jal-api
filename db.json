@@ -1,0 +1,23 @@
+{
+    "India":[
+  {
+    "State": "Karnataka",
+    "Capital": "Bangaluru",
+    "ChiefMinister": "S.R.Bommai"
+  },
+  {
+    "State": "Maharashtra",
+    "Capital": "Mumbai",
+    "ChiefMinister": "Eknath Shinde"
+  },
+  {
+    "State": "AndhraPradesh",
+    "Capital": "Amaravati",
+    "ChiefMinister": "Jagan Mohan Reddy"
+  },
+  {
+    "State": "TamilNadu",
+    "Capital": "Chennai",
+    "ChiefMinister": "M.K.Stalin"
+  }
+]}
