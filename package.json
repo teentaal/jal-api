@@ -18,8 +18,9 @@
   },
   "homepage": "https://github.com/ashishnhhh/jal-api#readme",
   "dependencies": {
-   
+    "dotenv": "^16.0.3",
     "json-server": "^0.17.3",
+    "mongoose": "^7.0.3",
     "nodemon": "^2.0.22"
   }
 }
