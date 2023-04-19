@@ -1,5 +1,5 @@
 const Models = require("../database/models/india");
-const getAllstates = async(req, res) => {
+const getAlldata = async(req, res) => {
     const {Capital, State, ChiefMinister, select} = req.query;
     const queryobject = {};
 
@@ -34,4 +34,4 @@ const getAllstates = async(req, res) => {
     res.status(200).json({myData});
 }
 
-module.exports = {getAllstates};
+module.exports = {getAlldata};

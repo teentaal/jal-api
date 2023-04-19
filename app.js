@@ -11,7 +11,7 @@ app.get("/", (req,res) => {
 });
 
 //middelwares api
-app.use("/states", states_route);
+app.use("/data", states_route);
 
 const start = async() =>{
     try {

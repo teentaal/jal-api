@@ -1,8 +1,8 @@
 const express = require('express');
 const router = express.Router();
 
-const {getAllstates} = require('../controller/states')
+const {getAlldata} = require('../controller/states')
 
-router.route("/").get(getAllstates);
+router.route("/").get(getAlldata);
 
 module.exports = router;
